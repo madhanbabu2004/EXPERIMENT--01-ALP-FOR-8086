@@ -170,7 +170,7 @@ MOV [700H],AX;
 ret
 ```
 ## OUTPUT
-<img width="884" alt="image" src="https://github.com/user-attachments/assets/01884920-6fec-404b-b06d-76fc280f5384">
+![image](https://github.com/user-attachments/assets/04be45fc-6be8-4b13-a3df-8d8176747732)
 
 ## NOT
 ```
