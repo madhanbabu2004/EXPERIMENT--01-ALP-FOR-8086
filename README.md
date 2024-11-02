@@ -127,7 +127,7 @@ MOV [700H],AX;
 ret
 ```
 ## Output  
-![image](https://github.com/user-attachments/assets/37d55003-83ed-438b-9321-3271b080a718)
+![Screenshot 2024-11-02 175549](https://github.com/user-attachments/assets/14353639-c32c-4793-886b-c497a35a1eb7)
 
 ## Program for Logical Operations
 ## AND
