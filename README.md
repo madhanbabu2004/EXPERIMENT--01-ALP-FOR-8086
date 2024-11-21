@@ -1,7 +1,5 @@
-# Name : MADHAN BABU P
-# Roll no : 212222230075
-# Date of experiment : 
-
+# EX NO : ARITHMETIC OPERATION AND LOGICAL OPERATION IN 8086
+# EX DATE:
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
